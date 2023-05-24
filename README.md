@@ -1,2 +1,4 @@
-# 2023I_gbi6_exam1
-Examen parcial 1 de Bioinformática
+# EXAMEN PARCIAL 1
+GBI6 - Bioinformática, semestre 2023-I
+
+Lea detenidamente las preguntas y responda. 
