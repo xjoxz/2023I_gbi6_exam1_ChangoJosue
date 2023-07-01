@@ -13,9 +13,9 @@ Examen parcial II de Bioinformática.
 
 | Nombre del Dispositivo|  DESKTOP-LKEFEJE | 
 | --- | ----| 
-| Procesador  |  Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz   1.19 GHz |
-| RAM instalada |  12,0 GB (11,7 GB utilizable) |
-Id. del  producto |  00356-02309-56986-AAOEM | 
+| Procesador  |  Intel(R) Celeron(R) CPU N2840 @ 2.16GHz 2.16GHz |
+| RAM instalada |  4,00 GB (3,89 GB utilizable)) |
+Id. del  producto |   00330-80000-00000-AA625 | 
 | Tipo de sistema |  Sistema operativo de 64 bits, procesador x64 |
 
 
